@@ -8,9 +8,9 @@
 $ virtualenv slackblot -p python3
 ```
 
-# Install slackclient
+# Install required packages
 ```
-$ pip install slackclient
+$ pip install -r requirements.txt
 ```
 You may need sudo if you are not using virtual environment
 
