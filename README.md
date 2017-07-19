@@ -22,7 +22,7 @@ $ export SLACK_API_TOKEN='your slack token pasted here'
 
 [Follow the instructions on this link to get the token](http://python-slackclient.readthedocs.io/en/latest/auth.html)
 
-# Create bot.py
+# Create get_bot_id.py
 
 This file will contain the bot logic and actions
 Run the script so you can get the bot id and then
@@ -43,3 +43,4 @@ This file contains a python class for creating message objects. Creating message
 
 # Articles that helped me
 [build-first-slack-bot](https://www.fullstackpython.com/blog/build-first-slack-bot-python.html)
+[direct messages with bot](https://medium.com/@julianmartinez/how-to-write-a-slack-bot-with-python-code-examples-4ed354407b98)
