@@ -25,6 +25,11 @@ $ export SLACK_API_TOKEN='your slack token pasted here'
 # Create bot.py
 
 This file will contain the bot logic and actions
+Run the script so you can get the bot id and then
+
+```
+$ export BOT_ID='your bot id pasted here'
+```
 
 # Create message.py
 
